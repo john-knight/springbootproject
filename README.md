@@ -1,4 +1,5 @@
-# springbootweb01
+# springboot
 实现了国际化支持
 实现了登陆校验
 实现了拦截器支持
+一个基于springboot框架的小项目，添加了国际化、拦截器、视图解析器等支持！
